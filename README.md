@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @simplysandeepp
+- 👀 I’m interested in sleeping 
+- 🌱 I’m currently learning Aiml&Fsd 
+- 📫 How to reach me insta
+- 😄 Pronouns: him
+- ⚡ Fun fact:  insta id too : @simplysandeepp
