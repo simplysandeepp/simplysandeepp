@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @simplysandeepp
+- 👋 Hi, I’m @Sandeepp
 - 👀 I’m interested in sleeping 
 - 🌱 I’m currently learning Aiml&Fsd 
 - 📫 How to reach me insta
