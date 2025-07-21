@@ -1,5 +1,5 @@
 <h1 align="center">Heyyy, I'm Sandeep Prajapati 👋 </h1>
-<h3 align="center">~ Currently in 2nd Phase, all about AIML & FSD</h3>
+<h3 align="center">~ Currently in 3rd Phase, all about AIML & FSD</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=simplysandeepp&label=Profile%20views&color=0e75b6&style=flat" alt="simplysandeepp" /> </p>
 
