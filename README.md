@@ -16,10 +16,10 @@
 const sandeep = {
     pronouns: "He" | "Him",
     location: "Delhi, India 🇮🇳",
-    currentFocus: "AI/ML & Full Stack Development",
+    currentFocus: "AI, ML and Deep Learning",
     education: "3rd Phase - Computer Science",
     learningGoal: "Mastering Algorithms & Data Structures",
-    askMeAbout: ["Web Dev", "AI/ML", "DSA", "Cloud Computing"],
+    askMeAbout: ["Web Dev", "AI/ML", "DSA", "Deep Learning"],
     funFact: "I debug with console.log() and I'm not ashamed! 😄",
     lifePhilosophy: "Code, Learn, Repeat ♾️"
 };
