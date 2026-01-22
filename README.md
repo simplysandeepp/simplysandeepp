@@ -1,12 +1,20 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=gradient&customColorList=0,2,000000,1c1917,22c55e&height=280&section=header&text=Sandeep%20Prajapati&fontSize=70&fontAlignY=35&animation=fadeIn&fontColor=ffffff&desc=Software%20Engineer%20%7C%20GenAI%20Specialist&descSize=25&descAlignY=60&descColor=ffffff" width="100%" />
+<!-- HERO SECTION -->
+<p align="center">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,000000,1c1917,22c55e&height=200&section=header&text=Sandeep%20Prajapati&fontSize=52&fontAlignY=40&animation=fadeIn&fontColor=ffffff&desc=Software%20Engineer%20|%20Aspiring%20AI%20Engineer&descSize=20&descAlignY=65&descColor=ffffff"
+    alt="Sandeep Prajapati Banner"
+    width="100%"
+  />
+</p>
 
-  <br />
-  
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=22C55E&center=true&vCenter=true&width=500&lines=Building+Scalable+Backend+Systems;Exploring+RAG+%26+Deep+Learning;Crafting+solutions+with+Java+%26+Python;Always+Learning...+Always+Coding" alt="Typing SVG" />
-  </a>
-</div>
+<!-- TYPING EFFECT -->
+<p align="center">
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1200&color=22C55E&center=true&vCenter=true&width=650&lines=Building+Scalable+Backend+Systems;Exploring+RAG+%26+Deep+Learning;Crafting+Solutions+with+Java+%26+Python;Always+Learning.+Always+Shipping."
+    alt="Typing Animation"
+  />
+</p>
+
 <br />
 
 <div align="center">
