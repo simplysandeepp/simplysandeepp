@@ -1,19 +1,19 @@
-<!-- HERO SECTION -->
-<p align="center">
+<div align="center">
   <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,000000,1c1917,22c55e&height=200&section=header&text=Sandeep%20Prajapati&fontSize=52&fontAlignY=40&animation=fadeIn&fontColor=ffffff&desc=Software%20Engineer%20|%20Aspiring%20AI%20Engineer&descSize=20&descAlignY=65&descColor=ffffff"
-    alt="Sandeep Prajapati Banner"
-    width="100%"
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=000000,0d1117,22c55e&height=250&section=header&text=Sandeep%20Prajapati&fontSize=60&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=Software%20Engineer%20|%20Aspiring%20AI%20Engineer&descSize=22&descAlignY=55&descColor=22c55e" 
+    alt="Sandeep Prajapati Banner" 
+    width="100%" 
   />
-</p>
+</div>
 
-<!-- TYPING EFFECT -->
-<p align="center">
+<div align="center">
   <img
     src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1200&color=22C55E&center=true&vCenter=true&width=650&lines=Building+Scalable+Backend+Systems;Exploring+RAG+%26+Deep+Learning;Crafting+Solutions+with+Java+%26+Python;Always+Learning.+Always+Shipping."
     alt="Typing Animation"
   />
-</p>
+  <br />
+  <img src="https://komarev.com/ghpvc/?username=simplysandeepp&label=Profile%20Views&color=22c55e&style=flat-square" alt="Profile Views" />
+</div>
 
 <br />
 
@@ -26,17 +26,17 @@
           I am a developer based in <b>India</b> 🌍 bridging the gap between traditional software engineering and modern <b>Generative AI</b>.
         </p>
         <p>
-          Currently, I am focused on <b>Retrieval-Augmented Generation (RAG)</b> and building autonomous agents. I love solving complex algorithmic problems and optimizing backend latency.
+          Currently, I am focused on <b>Retrieval-Augmented Generation (RAG)</b> and building autonomous agents. I love solving complex algorithmic problems and optimizing backend latency to build systems that scale.
         </p>
         <br />
         <p>
           🔭 <b>Current Project:</b> Confidential RAG Systems<br>
-          🌱 <b>Learning:</b> LLM Orchestration & System Design<br>
+          🌱 <b>Learning:</b> LLM Orchestration & Advanced System Design<br>
           ⚡ <b>Fun Fact:</b> I treat my code like art.
         </p>
       </td>
       <td align="center" width="40%">
-        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDdtZ2t6d3I1bGR3eXJ2ZHI0aDV6eXU1Z3I1eXJ2ZHI0aDV6eXU1ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L1R1TVThqceKoyNH8h/giphy.gif" width="100%" />
+        <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="90%" style="border-radius: 10px;" alt="Coding GIF"/>
       </td>
     </tr>
   </table>
@@ -45,28 +45,48 @@
 <br />
 
 <div align="center">
+  <h3>🏆 GitHub Trophies</h3>
+  <br />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=simplysandeepp&theme=darkhub&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true&title-text-color=22c55e" alt="Sandeep Trophies" />
+  </a>
+</div>
+
+<br />
+
+<div align="center">
   <h3>🛠️ The Arsenal</h3>
   <br />
+  <p><b>Languages</b></p>
   <img src="https://skillicons.dev/icons?i=java,python,js,ts,cpp,html,css&theme=dark" />
   <br /><br />
+  <p><b>Backend & Databases</b></p>
   <img src="https://skillicons.dev/icons?i=spring,nodejs,fastapi,flask,mysql,postgres,mongodb,firebase&theme=dark" />
   <br /><br />
+  <p><b>Frontend & Design</b></p>
   <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,vite,figma&theme=dark" />
   <br /><br />
+  <p><b>AI/ML, DevOps & Tools</b></p>
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,gcp,docker,linux,git,vscode&theme=dark" />
 </div>
 
 <br />
 
 <div align="center">
-  <h3>📊 GitHub Analytics</h3>
+  <h3>📊 Activity & Analytics</h3>
   <br />
-  <img src="https://github-readme-stats.vercel.app/api?username=simplysandeepp&show_icons=true&count_private=true&hide_border=true&title_color=22c55e&icon_color=22c55e&text_color=ffffff&bg_color=0d1117" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simplysandeepp&layout=compact&hide_border=true&title_color=22c55e&text_color=ffffff&icon_color=22c55e&bg_color=0d1117&langs_count=6" height="160" />
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=simplysandeepp&show_icons=true&count_private=true&hide_border=true&title_color=22c55e&icon_color=22c55e&text_color=ffffff&bg_color=0d1117" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simplysandeepp&layout=donut&hide_border=true&title_color=22c55e&text_color=ffffff&icon_color=22c55e&bg_color=0d1117&langs_count=5" height="180" alt="Top Languages" />
   
   <br /><br />
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=simplysandeepp&stroke=ffffff&background=0d1117&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
+
+  <img src="https://leetcard.jacoblin.cool/simplysandeepp?theme=dark&font=Fira%20Code&ext=activity&border=0&bg=0d1117&title_color=22c55e&text_color=ffffff" height="180" alt="LeetCode Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=simplysandeepp&stroke=ffffff&background=0d1117&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" height="180" alt="GitHub Streak" />
+
+  <br /><br />
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=simplysandeepp&bg_color=0d1117&color=22c55e&line=22c55e&point=ffffff&area=true&hide_border=true" width="90%" alt="Activity Graph" />
 </div>
 
 <br />
@@ -82,7 +102,5 @@
 
   <br /><br />
   
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="400">
 </div>
-
-
