@@ -2,27 +2,26 @@ name: Update README Stats Cards
 
 on:
   schedule:
-    - cron: "0 3 * * *"   # Runs daily at 3 AM UTC (8:30 AM IST)
-  workflow_dispatch:        # Also allows manual trigger from Actions tab
+    - cron: "0 3 * * *"   # Daily at 3 AM UTC (8:30 AM IST)
+  workflow_dispatch:        # Manual trigger from Actions tab
+
+permissions:
+  contents: write           # ← THIS is what was missing — grants push access
 
 jobs:
   build:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
 
     steps:
-      - uses: actions/checkout@v4
-        with:
-          token: ${{ secrets.GRS_TOKEN }}
+      - name: Checkout repo
+        uses: actions/checkout@v4
 
-      # --- Stats Card ---
       - name: Generate GitHub Stats Card
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: stats
           options: >
-            username=${{ github.repository_owner }}
+            username=simplysandeepp
             &show_icons=true
             &count_private=true
             &include_all_commits=true
@@ -33,15 +32,14 @@ jobs:
             &hide_border=true
             &rank_icon=github
           path: profile/stats.svg
-          token: ${{ secrets.GRS_TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}
 
-      # --- Top Languages Card ---
       - name: Generate Top Languages Card
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: top-langs
           options: >
-            username=${{ github.repository_owner }}
+            username=simplysandeepp
             &layout=compact
             &langs_count=8
             &bg_color=0d1117
@@ -49,13 +47,13 @@ jobs:
             &text_color=ffffff
             &hide_border=true
           path: profile/top-langs.svg
-          token: ${{ secrets.GRS_TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}
 
-      # --- Commit & Push SVGs back to repo ---
-      - name: Commit updated cards
+      - name: Commit and push updated cards
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
+          git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
           git add profile/stats.svg profile/top-langs.svg
           git diff --staged --quiet || git commit -m "chore: update README stats cards [skip ci]"
           git push
