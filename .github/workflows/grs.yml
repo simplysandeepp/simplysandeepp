@@ -18,30 +18,21 @@ jobs:
 
       - name: Generate GitHub Stats Card
         run: |
-          curl -s "https://github-readme-stats.vercel.app/api?\
-username=simplysandeepp\
-&show_icons=true\
-&count_private=true\
-&include_all_commits=true\
-&bg_color=0d1117\
-&title_color=22c55e\
-&icon_color=22c55e\
-&text_color=ffffff\
-&hide_border=true\
-&rank_icon=github" \
-          -o profile/stats.svg
+          curl -s "https://github-readme-stats.vercel.app/api?username=simplysandeepp&show_icons=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=22c55e&icon_color=22c55e&text_color=ffffff&hide_border=true&rank_icon=github" -o profile/stats.svg
 
       - name: Generate Top Languages Card
         run: |
-          curl -s "https://github-readme-stats.vercel.app/api/top-langs/?\
-username=simplysandeepp\
-&layout=compact\
-&langs_count=8\
-&bg_color=0d1117\
-&title_color=22c55e\
-&text_color=ffffff\
-&hide_border=true" \
-          -o profile/top-langs.svg
+          curl -s "https://github-readme-stats.vercel.app/api/top-langs/?username=simplysandeepp&layout=compact&langs_count=8&bg_color=0d1117&title_color=22c55e&text_color=ffffff&hide_border=true" -o profile/top-langs.svg
+
+      - name: Verify cards are valid SVG (not error pages)
+        run: |
+          if grep -q "Something went wrong" profile/stats.svg; then
+            echo "❌ stats.svg contains an error!" && cat profile/stats.svg && exit 1
+          fi
+          if grep -q "Something went wrong" profile/top-langs.svg; then
+            echo "❌ top-langs.svg contains an error!" && cat profile/top-langs.svg && exit 1
+          fi
+          echo "✅ Both cards generated successfully"
 
       - name: Commit and push updated cards
         run: |
