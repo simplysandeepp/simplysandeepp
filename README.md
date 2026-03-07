@@ -1,9 +1,5 @@
-<div align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=000000,0d1117,22c55e&height=250&section=header&text=Sandeep%20Prajapati&fontSize=60&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=Software%20Engineer%20|%20Aspiring%20AI%20Engineer&descSize=22&descAlignY=55&descColor=22c55e" 
-    alt="Sandeep Prajapati Banner" 
-    width="100%" 
-  />
+<div align="center"> 
+    <h1>Sandeep Prajapati</h1> 
 </div>
 
 <div align="center">
@@ -29,11 +25,6 @@
           Currently, I am focused on <b>Retrieval-Augmented Generation (RAG)</b> and building autonomous agents. I love solving complex algorithmic problems and optimizing backend latency to build systems that scale.
         </p>
         <br />
-        <p>
-          🔭 <b>Current Project:</b> Confidential RAG Systems<br>
-          🌱 <b>Learning:</b> LLM Orchestration & Advanced System Design<br>
-          ⚡ <b>Fun Fact:</b> I treat my code like art.
-        </p>
       </td>
       <td align="center" width="40%">
         <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="90%" style="border-radius: 10px;" alt="Coding GIF"/>
@@ -41,19 +32,7 @@
     </tr>
   </table>
 </div>
-
 <br />
-
-<div align="center">
-  <h3>🏆 GitHub Trophies</h3>
-  <br />
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=simplysandeepp&theme=darkhub&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true&title-text-color=22c55e" alt="Sandeep Trophies" />
-  </a>
-</div>
-
-<br />
-
 <div align="center">
   <h3>🛠️ The Arsenal</h3>
   <br />
@@ -74,11 +53,6 @@
 
 <div align="center">
   <h3>📊 Activity & Analytics</h3>
-  <br />
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=simplysandeepp&show_icons=true&count_private=true&hide_border=true&title_color=22c55e&icon_color=22c55e&text_color=ffffff&bg_color=0d1117" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simplysandeepp&layout=donut&hide_border=true&title_color=22c55e&text_color=ffffff&icon_color=22c55e&bg_color=0d1117&langs_count=5" height="180" alt="Top Languages" />
-  
   <br /><br />
 
   <img src="https://leetcard.jacoblin.cool/simplysandeepp?theme=dark&font=Fira%20Code&ext=activity&border=0&bg=0d1117&title_color=22c55e&text_color=ffffff" height="180" alt="LeetCode Stats" />
