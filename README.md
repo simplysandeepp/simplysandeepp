@@ -1,14 +1,15 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:082012,100:22c55e&height=130&section=header&text=Sandeep%20Prajapati&fontSize=42&fontColor=22c55e&fontAlignY=65&animation=fadeIn&desc=Backend%20Engineer%20%7C%20AI%20%2F%20ML%20Developer&descAlignY=85&descSize=16&descColor=88d498" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:082012,100:22c55e&height=135&section=header&text=Sandeep%20Prajapati&fontSize=44&fontColor=22c55e&fontAlignY=65&animation=fadeIn&desc=Backend%20Engineer%20%7C%20AI%20%2F%20ML%20Developer%20%7C%20India%20%F0%9F%87%AE%F0%9F%87%B3&descAlignY=85&descSize=15&descColor=88d498" />
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&pause=1200&color=22C55E&center=true&vCenter=true&width=720&lines=Building+Scalable+Backend+Systems+%F0%9F%9A%80;Retrieval-Augmented+Generation+%26+Agentic+AI+%F0%9F%A4%96;Java+%7C+Python+%7C+Spring+Boot+%7C+FastAPI+%E2%9A%A1;Optimizing+Latency.+Shipping+Products.+Always+Learning." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&pause=1200&color=22C55E&center=true&vCenter=true&width=750&lines=Backend+Engineer+%7C+AI+%2F+ML+Developer+%F0%9F%9A%80;RAG+Pipelines+%26+Autonomous+AI+Agents+%F0%9F%A4%96;Java+%7C+Python+%7C+Spring+Boot+%7C+FastAPI+%E2%9A%A1;Optimizing+Latency.+Shipping+Products.+Always+Learning." alt="Typing SVG" />
 
 <br/>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=simplysandeepp&label=Profile+Views&color=22c55e&style=flat-square)](https://github.com/simplysandeepp)&nbsp;
 [![GitHub followers](https://img.shields.io/github/followers/simplysandeepp?label=Followers&color=22c55e&style=flat-square)](https://github.com/simplysandeepp?tab=followers)&nbsp;
-[![GitHub User's stars](https://img.shields.io/github/stars/simplysandeepp?label=Total+Stars&color=22c55e&style=flat-square)](https://github.com/simplysandeepp)
+[![GitHub stars](https://img.shields.io/github/stars/simplysandeepp?label=Total+Stars&color=22c55e&style=flat-square)](https://github.com/simplysandeepp)&nbsp;
+[![Open to Work](https://img.shields.io/badge/Open%20to-Collaborate-22c55e?style=flat-square&logo=github)](mailto:sandeepprajapati1202@gmail.com)
 
 </div>
 
@@ -18,28 +19,29 @@
 
 ```typescript
 const sandeep: Developer = {
-  name       : "Sandeep Prajapati",
-  location   : "India 🇮🇳",
-  role       : "Backend Engineer & AI/ML Developer",
+  name        : "Sandeep Prajapati",
+  location    : "India 🇮🇳",
+  role        : "Backend Engineer & AI/ML Developer",
 
   currentFocus: [
     "RAG Pipelines & Autonomous AI Agents",
     "LLM-powered backend systems",
     "Backend latency optimization & scalability",
-    "Deep Learning architectures",
+    "Deep Learning — CNNs, Transformers, LLMs",
   ],
 
   techStack: {
-    languages  : ["Java", "Python", "TypeScript", "JavaScript", "C++"],
-    backend    : ["Spring Boot", "FastAPI", "Node.js", "Flask"],
-    databases  : ["PostgreSQL", "MongoDB", "MySQL", "Firebase"],
-    frontend   : ["React", "Next.js", "Tailwind CSS", "Figma"],
-    aiml       : ["TensorFlow", "PyTorch", "scikit-learn", "LangChain"],
-    devops     : ["Docker", "GCP", "Linux", "Git"],
+    languages : ["Java", "Python", "TypeScript", "JavaScript", "C++", "HTML", "CSS"],
+    backend   : ["Spring Boot", "FastAPI", "Node.js", "Flask"],
+    databases : ["PostgreSQL", "MongoDB", "MySQL", "Firebase"],
+    frontend  : ["React", "Next.js", "Tailwind CSS", "Bootstrap", "Vite", "Figma"],
+    aiml      : ["TensorFlow", "PyTorch", "scikit-learn", "LangChain"],
+    devops    : ["Docker", "GCP", "Linux", "Git", "VS Code"],
   },
 
-  openTo     : ["AI/ML collaborations", "Open Source", "Backend projects"],
-  funFact    : "I debug in production — and survive 🔥",
+  currentlyLearning : ["LangGraph", "Vector Databases", "Microservices", "System Design"],
+  openTo            : ["AI/ML collaborations", "Open Source", "Backend projects"],
+  funFact           : "I debug in production — and survive. 🔥",
 };
 ```
 
@@ -47,13 +49,13 @@ const sandeep: Developer = {
 <tr>
 <td width="56%" valign="top">
 
-### 🎯 Currently Up To
+### 🎯 What I'm Up To
 
 - 🔭 Building **RAG pipelines** and autonomous AI agents
-- 🧠 Exploring **vector databases**, LangChain & semantic search
+- 🧠 Exploring **LangChain**, vector DBs & semantic search
 - ⚙️ Deep-diving into **system design** and microservices
 - 📖 Studying **Deep Learning** — CNNs, Transformers, LLMs
-- 🤝 Open to collaborations on **AI/ML & backend** projects
+- 🤝 Open to **AI/ML & backend** collaborations
 - ⚡ Obsessed with **low-latency backends** and scalability
 
 </td>
@@ -71,16 +73,20 @@ const sandeep: Developer = {
 
 <div align="center">
 
-### ⚡ Languages
+**⚡ Languages**
+
 <img src="https://skillicons.dev/icons?i=java,python,js,ts,cpp,html,css&theme=dark" />
 
-### 🔧 Backend & Databases
+**🔧 Backend & Databases**
+
 <img src="https://skillicons.dev/icons?i=spring,fastapi,nodejs,flask,postgres,mongodb,mysql,firebase&theme=dark" />
 
-### 🎨 Frontend & Design
+**🎨 Frontend & Design**
+
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,vite,figma&theme=dark" />
 
-### 🤖 AI / ML & DevOps
+**🤖 AI / ML & DevOps**
+
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,gcp,docker,linux,git,vscode&theme=dark" />
 
 </div>
@@ -89,11 +95,13 @@ const sandeep: Developer = {
 
 ## 📊 GitHub Analytics
 
+> ✅ These stats cards are **self-hosted via GitHub Actions** — they update daily and never go offline.
+
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=simplysandeepp&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=22c55e&icon_color=22c55e&text_color=ffffff&include_all_commits=true&count_private=true&rank_icon=github" height="175" alt="GitHub Stats"/>
+<img src="./profile/stats.svg" height="175" alt="GitHub Stats" />
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simplysandeepp&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=22c55e&text_color=ffffff&langs_count=8" height="175" alt="Top Languages"/>
+<img src="./profile/top-langs.svg" height="175" alt="Top Languages" />
 
 <br/><br/>
 
@@ -103,23 +111,13 @@ const sandeep: Developer = {
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=simplysandeepp&bg_color=0d1117&color=22c55e&line=22c55e&point=ffffff&area=true&area_color=0f4c1a&hide_border=true&custom_title=Contribution+Activity+Graph" width="94%" alt="GitHub Activity Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=simplysandeepp&bg_color=0d1117&color=22c55e&line=22c55e&point=ffffff&area=true&area_color=0f2a0f&hide_border=true&custom_title=Contribution+Activity+Graph" width="94%" alt="GitHub Activity Graph"/>
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-trophies.vercel.app/?username=simplysandeepp&theme=matrix&no-frame=true&no-bg=true&margin-w=6&column=7" width="94%" alt="GitHub Trophies"/>
-
-</div>
-
----
-
-## 📈 Profile Summary Cards
+## 📈 Profile Summary
 
 <div align="center">
 
@@ -133,9 +131,19 @@ const sandeep: Developer = {
 
 <br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=simplysandeepp&theme=github_dark" height="175" alt="Stats Summary"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=simplysandeepp&theme=github_dark" height="175" alt="Stats Card"/>
 &nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=simplysandeepp&theme=github_dark&utcOffset=5.5" height="175" alt="Productive Time (IST)"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=simplysandeepp&theme=github_dark&utcOffset=5.5" height="175" alt="Productive Time IST"/>
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-trophies.vercel.app/?username=simplysandeepp&theme=matrix&no-frame=true&no-bg=true&margin-w=6&column=7" width="94%" alt="GitHub Trophies"/>
 
 </div>
 
