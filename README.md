@@ -99,9 +99,7 @@ const sandeep: Developer = {
 
 <div align="center">
 
-<img src="./profile/stats.svg" height="175" alt="GitHub Stats" />
-&nbsp;
-<img src="./profile/top-langs.svg" height="175" alt="Top Languages" />
+[![.github/workflows/grs.yml](https://github.com/simplysandeepp/simplysandeepp/actions/workflows/grs.yml/badge.svg)](https://github.com/simplysandeepp/simplysandeepp/actions/workflows/grs.yml)
 
 <br/><br/>
 
