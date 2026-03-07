@@ -21,17 +21,18 @@
 const sandeep: Developer = {
   name        : "Sandeep Prajapati",
   location    : "India 🇮🇳",
-  role        : "Backend Engineer & AI/ML Developer",
+  role        : "Backend Engineer & Applied AI Engineer",
 
   currentFocus: [
     "RAG Pipelines & Autonomous AI Agents",
     "LLM-powered backend systems",
+    "Backend development with Spring Boot",
     "Backend latency optimization & scalability",
-    "Deep Learning — CNNs, Transformers, LLMs",
+    "Deep Learning — GANs, Transformers, LLMs & AI Agents",
   ],
 
   techStack: {
-    languages : ["Java", "Python", "TypeScript", "JavaScript", "C++", "HTML", "CSS"],
+    languages : ["Java", "Python", "TypeScript", "JavaScript"],
     backend   : ["Spring Boot", "FastAPI", "Node.js", "Flask"],
     databases : ["PostgreSQL", "MongoDB", "MySQL", "Firebase"],
     frontend  : ["React", "Next.js", "Tailwind CSS", "Bootstrap", "Vite", "Figma"],
@@ -41,7 +42,6 @@ const sandeep: Developer = {
 
   currentlyLearning : ["LangGraph", "Vector Databases", "Microservices", "System Design"],
   openTo            : ["AI/ML collaborations", "Open Source", "Backend projects"],
-  funFact           : "I debug in production — and survive. 🔥",
 };
 ```
 
@@ -54,7 +54,7 @@ const sandeep: Developer = {
 - 🔭 Building **RAG pipelines** and autonomous AI agents
 - 🧠 Exploring **LangChain**, vector DBs & semantic search
 - ⚙️ Deep-diving into **system design** and microservices
-- 📖 Studying **Deep Learning** — CNNs, Transformers, LLMs
+- 📖 Studying **Deep Learning** — Ai Agents, Transformers, LLMs
 - 🤝 Open to **AI/ML & backend** collaborations
 - ⚡ Obsessed with **low-latency backends** and scalability
 
