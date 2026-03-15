@@ -44,53 +44,6 @@ const sandeep: Developer = {
   openTo            : ["AI/ML collaborations", "Open Source", "Backend projects"],
 };
 ```
-
-<table>
-<tr>
-<td width="56%" valign="top">
-
-### 🎯 What I'm Up To
-
-- 🔭 Building **RAG pipelines** and autonomous AI agents
-- 🧠 Exploring **LangChain**, vector DBs & semantic search
-- ⚙️ Deep-diving into **system design** and microservices
-- 📖 Studying **Deep Learning** — Ai Agents, Transformers, LLMs
-- 🤝 Open to **AI/ML & backend** collaborations
-- ⚡ Obsessed with **low-latency backends** and scalability
-
-</td>
-<td width="44%" align="center">
-
-<img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="100%" style="border-radius:12px" alt="Coding GIF"/>
-
-</td>
-</tr>
-</table>
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-**⚡ Languages**
-
-<img src="https://skillicons.dev/icons?i=java,python,js,ts,cpp,html,css&theme=dark" />
-
-**🔧 Backend & Databases**
-
-<img src="https://skillicons.dev/icons?i=spring,fastapi,nodejs,flask,postgres,mongodb,mysql,firebase&theme=dark" />
-
-**🎨 Frontend & Design**
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,vite,figma&theme=dark" />
-
-**🤖 AI / ML & DevOps**
-
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,gcp,docker,linux,git,vscode&theme=dark" />
-
-</div>
-
 ---
 
 ## 📊 GitHub Analytics
@@ -147,6 +100,30 @@ const sandeep: Developer = {
 
 ---
 
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**⚡ Languages**
+
+<img src="https://skillicons.dev/icons?i=java,python,js,ts,cpp,html,css&theme=dark" />
+
+**🔧 Backend & Databases**
+
+<img src="https://skillicons.dev/icons?i=spring,fastapi,nodejs,flask,postgres,mongodb,mysql,firebase&theme=dark" />
+
+**🎨 Frontend & Design**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,vite,figma&theme=dark" />
+
+**🤖 AI / ML & DevOps**
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,gcp,docker,linux,git,vscode&theme=dark" />
+
+</div>
+
+
+---
 ## 🤝 Connect With Me
 
 <div align="center">
