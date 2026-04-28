@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Sandeep Prajapati's GitHub Stats, Rank: B+</title>
-        <desc id="descId">Total Stars Earned: 30, Total Commits  : 2988, Total PRs: 41, Total Issues: 112, Contributed to (last year): 14</desc>
+        <desc id="descId">Total Stars Earned: 30, Total Commits  : 2997, Total PRs: 41, Total Issues: 112, Contributed to (last year): 14</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 106.48996660455504;
+        stroke-dashoffset: 106.45713251170429;
       }
     }
   
