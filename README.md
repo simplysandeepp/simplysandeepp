@@ -58,7 +58,7 @@ const sandeep: Developer = {
 
 <img src="https://streak-stats.demolab.com?user=simplysandeepp&theme=github-dark-blue&hide_border=true&background=0d1117&ring=22c55e&fire=ff6c00&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=22c55e&dates=888888&stroke=22c55e" height="180" alt="GitHub Streak"/>
 &nbsp;
-<img src="https://leetcard.jacoblin.cool/simplysandeepp?theme=dark&font=JetBrains+Mono&ext=activity&border=0&bg=0d1117&title_color=22c55e&text_color=ffffff" height="180" alt="LeetCode Stats"/>
+<img src="https://leetcard.jacoblin.cool/turiyax?theme=dark&font=JetBrains+Mono&ext=activity&border=0&bg=0d1117&title_color=22c55e&text_color=ffffff" height="180" alt="LeetCode Stats"/>
 
 <br/><br/>
 
