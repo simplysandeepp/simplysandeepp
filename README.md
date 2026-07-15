@@ -18,13 +18,11 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" width="320" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Coding GIF" />
-
-```typescript
+```ts
 const sandeep: Developer = {
-  name        : "Sandeep Prajapati",
-  location    : "India 🇮🇳",
-  role        : "Backend Engineer & Applied AI Engineer",
+  name: "Sandeep Prajapati",
+  location: "India 🇮🇳",
+  role: "Backend Engineer & Applied AI Engineer",
 
   currentFocus: [
     "RAG Pipelines & Autonomous AI Agents",
@@ -35,20 +33,32 @@ const sandeep: Developer = {
   ],
 
   techStack: {
-    languages : ["Java", "Python", "TypeScript", "JavaScript"],
-    backend   : ["Spring Boot", "FastAPI", "Node.js", "Flask"],
-    databases : ["PostgreSQL", "MongoDB", "MySQL", "Firebase"],
-    frontend  : ["React", "Next.js", "Tailwind CSS", "Bootstrap"],
-    aiml      : ["TensorFlow", "PyTorch", "scikit-learn", "LangChain"],
-    devops    : ["Docker", "GCP", "Linux", "Git", "VS Code"],
+    languages: ["Java", "Python", "TypeScript", "JavaScript"],
+    backend: ["Spring Boot", "FastAPI", "Node.js", "Flask"],
+    databases: ["PostgreSQL", "MongoDB", "MySQL", "Firebase"],
+    frontend: ["React", "Next.js", "Tailwind CSS", "Bootstrap"],
+    aiml: ["TensorFlow", "PyTorch", "scikit-learn", "LangChain"],
+    devops: ["Docker", "GCP", "Linux", "Git", "VS Code"],
   },
 
-  currentlyLearning : ["LangGraph", "Vector DBs", "Microservices", "System Design"],
-  openTo            : ["AI/ML collaborations", "Open Source", "Backend projects"],
+  currentlyLearning: [
+    "LangGraph",
+    "Vector DBs",
+    "Microservices",
+    "System Design",
+  ],
+
+  openTo: [
+    "AI/ML collaborations",
+    "Open Source",
+    "Backend projects",
+  ],
 };
 ```
 
-<br clear="right"/>
+
+</tr>
+</table>
 
 ---
 
