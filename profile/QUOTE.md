@@ -1,5 +1,5 @@
 # 💡 Dev Quote (auto-rotated hourly)
 
-> Code is like humor. When you have to explain it, it's bad. — Cory House
+> Simplicity is the soul of efficiency. — Austin Freeman
 
-_Last updated: 2026-07-17 11:22:55 UTC (2026-07-17 16:52:55 IST)_
+_Last updated: 2026-07-17 13:41:29 UTC (2026-07-17 19:11:29 IST)_
