@@ -1,5 +1,5 @@
 # 💡 Dev Quote (auto-rotated hourly)
 
-> First, solve the problem. Then, write the code. — John Johnson
+> Programs must be written for people to read. — Harold Abelson
 
-_Last updated: 2026-07-17 19:12:38 UTC (2026-07-18 00:42:38 IST)_
+_Last updated: 2026-07-17 20:57:24 UTC (2026-07-18 02:27:24 IST)_
