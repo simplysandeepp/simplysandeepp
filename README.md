@@ -1,16 +1,16 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:201208,100:ef4444&height=160&section=header&text=Sandeep%20Prajapati&fontSize=46&fontColor=ef4444&fontAlignY=62&animation=fadeIn&desc=Backend%20Engineer%20%7C%20AI%20%2F%20ML%20Developer%20%7C%20India%20%F0%9F%87%AE%F0%9F%87%B3&descAlignY=82&descSize=16&descColor=fca5a5" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:082028,100:06b6d4&height=160&section=header&text=Sandeep%20Prajapati&fontSize=46&fontColor=06b6d4&fontAlignY=62&animation=fadeIn&desc=Backend%20Engineer%20%7C%20AI%20%2F%20ML%20Developer%20%7C%20India%20%F0%9F%87%AE%F0%9F%87%B3&descAlignY=82&descSize=16&descColor=67e8f9" />
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&pause=1200&color=EF4444&center=true&vCenter=true&width=750&lines=Backend+Engineer+%7C+AI+%2F+ML+Developer+%F0%9F%9A%80;RAG+Pipelines+%26+Autonomous+AI+Agents+%F0%9F%A4%96;Java+%7C+Python+%7C+Spring+Boot+%7C+FastAPI+%E2%9A%A1;Optimizing+Latency.+Shipping+Products.+Always+Learning." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&pause=1200&color=06B6D4&center=true&vCenter=true&width=750&lines=Backend+Engineer+%7C+AI+%2F+ML+Developer+%F0%9F%9A%80;RAG+Pipelines+%26+Autonomous+AI+Agents+%F0%9F%A4%96;Java+%7C+Python+%7C+Spring+Boot+%7C+FastAPI+%E2%9A%A1;Optimizing+Latency.+Shipping+Products.+Always+Learning." alt="Typing SVG" />
 
 <br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=simplysandeepp&label=Profile+Views&color=ef4444&style=flat-square)](https://github.com/simplysandeepp)&nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/simplysandeepp?label=Followers&color=ef4444&style=flat-square)](https://github.com/simplysandeepp?tab=followers)&nbsp;
-[![GitHub stars](https://img.shields.io/github/stars/simplysandeepp?label=Total+Stars&color=ef4444&style=flat-square)](https://github.com/simplysandeepp)&nbsp;
-[![Years Coding](https://img.shields.io/badge/Years%20Coding-3%2B-ef4444?style=flat-square&logo=github)](https://github.com/simplysandeepp)&nbsp;
-[![Open to Work](https://img.shields.io/badge/Open%20to-Collaborate-ef4444?style=flat-square&logo=github)](mailto:sandeepprajapati1202@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=simplysandeepp&label=Profile+Views&color=06b6d4&style=flat-square)](https://github.com/simplysandeepp)&nbsp;
+[![GitHub followers](https://img.shields.io/github/followers/simplysandeepp?label=Followers&color=06b6d4&style=flat-square)](https://github.com/simplysandeepp?tab=followers)&nbsp;
+[![GitHub stars](https://img.shields.io/github/stars/simplysandeepp?label=Total+Stars&color=06b6d4&style=flat-square)](https://github.com/simplysandeepp)&nbsp;
+[![Years Coding](https://img.shields.io/badge/Years%20Coding-3%2B-06b6d4?style=flat-square&logo=github)](https://github.com/simplysandeepp)&nbsp;
+[![Open to Work](https://img.shields.io/badge/Open%20to-Collaborate-06b6d4?style=flat-square&logo=github)](mailto:sandeepprajapati1202@gmail.com)
 
 </div>
 
@@ -66,7 +66,7 @@ const sandeep: Developer = {
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=onedark" alt="Dev Quote" />
 
 </div>
 
@@ -83,17 +83,17 @@ const sandeep: Developer = {
 <br/>
 
 <!-- MAIN STATS CARD — total commits, stars, PRs, issues, contributions + rank -->
-<img src="https://github-readme-stats.vercel.app/api?username=simplysandeepp&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&rank_icon=github&theme=transparent&title_color=ef4444&icon_color=ef4444&text_color=ffffff&bg_color=0d1117&show=reviews,prs_merged,prs_merged_percentage" height="190" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=simplysandeepp&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&rank_icon=github&theme=transparent&title_color=06b6d4&icon_color=06b6d4&text_color=ffffff&bg_color=0d1117&show=reviews,prs_merged,prs_merged_percentage" height="190" alt="GitHub Stats" />
 &nbsp;
 <!-- TOP LANGUAGES — weighted by code size across all repos -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simplysandeepp&layout=compact&langs_count=10&hide_border=true&count_private=true&theme=transparent&title_color=ef4444&text_color=ffffff&bg_color=0d1117" height="190" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simplysandeepp&layout=compact&langs_count=10&hide_border=true&count_private=true&theme=transparent&title_color=06b6d4&text_color=ffffff&bg_color=0d1117" height="190" alt="Top Languages" />
 
 <br/><br/>
 
 <!-- STREAK + LEETCODE -->
-<img src="https://streak-stats.demolab.com?user=simplysandeepp&theme=github-dark-blue&hide_border=true&background=0d1117&ring=ef4444&fire=ff6c00&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ef4444&dates=888888&stroke=ef4444" height="190" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=simplysandeepp&theme=github-dark-blue&hide_border=true&background=0d1117&ring=06b6d4&fire=ff6c00&currStreakNum=ffffff&currStreakLabel=06b6d4&sideNums=ffffff&sideLabels=06b6d4&dates=888888&stroke=06b6d4" height="190" alt="GitHub Streak"/>
 &nbsp;
-<img src="https://leetcard.jacoblin.cool/simplysandeepp?theme=dark&font=JetBrains+Mono&ext=activity&border=0&bg=0d1117&title_color=ef4444&text_color=ffffff" height="190" alt="LeetCode Stats"/>
+<img src="https://leetcard.jacoblin.cool/simplysandeepp?theme=dark&font=JetBrains+Mono&ext=activity&border=0&bg=0d1117&title_color=06b6d4&text_color=ffffff" height="190" alt="LeetCode Stats"/>
 
 </div>
 
@@ -103,7 +103,7 @@ const sandeep: Developer = {
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=simplysandeepp&bg_color=0d1117&color=ef4444&line=ef4444&point=ffffff&area=true&area_color=2a0f0f&hide_border=true&custom_title=Contribution+Activity+Graph" width="96%" alt="GitHub Activity Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=simplysandeepp&bg_color=0d1117&color=06b6d4&line=06b6d4&point=ffffff&area=true&area_color=0f2a2a&hide_border=true&custom_title=Contribution+Activity+Graph" width="96%" alt="GitHub Activity Graph"/>
 
 </div>
 
@@ -145,7 +145,7 @@ const sandeep: Developer = {
 
 <div align="center">
 
-<img src="https://github-trophies.vercel.app/?username=simplysandeepp&theme=radical&no-frame=true&no-bg=true&margin-w=6&margin-h=6&column=7&title=MultiLanguage,Commits,Repositories,Stars,Followers,PullRequest,Issues" width="96%" alt="GitHub Trophies"/>
+<img src="https://github-trophies.vercel.app/?username=simplysandeepp&theme=onedark&no-frame=true&no-bg=true&margin-w=6&margin-h=6&column=7&title=MultiLanguage,Commits,Repositories,Stars,Followers,PullRequest,Issues" width="96%" alt="GitHub Trophies"/>
 
 </div>
 
@@ -158,11 +158,11 @@ const sandeep: Developer = {
 <div align="center">
 
 <a href="https://github.com/simplysandeepp/REPO_NAME_1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=simplysandeepp&repo=REPO_NAME_1&hide_border=true&theme=transparent&title_color=ef4444&icon_color=ef4444&text_color=ffffff&bg_color=0d1117" height="155" alt="Repo 1"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=simplysandeepp&repo=REPO_NAME_1&hide_border=true&theme=transparent&title_color=06b6d4&icon_color=06b6d4&text_color=ffffff&bg_color=0d1117" height="155" alt="Repo 1"/>
 </a>
 &nbsp;
 <a href="https://github.com/simplysandeepp/REPO_NAME_2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=simplysandeepp&repo=REPO_NAME_2&hide_border=true&theme=transparent&title_color=ef4444&icon_color=ef4444&text_color=ffffff&bg_color=0d1117" height="155" alt="Repo 2"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=simplysandeepp&repo=REPO_NAME_2&hide_border=true&theme=transparent&title_color=06b6d4&icon_color=06b6d4&text_color=ffffff&bg_color=0d1117" height="155" alt="Repo 2"/>
 </a>
 
 </div>
@@ -225,4 +225,4 @@ const sandeep: Developer = {
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ef4444,60:201208,100:0d1117&height=110&section=footer&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,60:082028,100:0d1117&height=110&section=footer&animation=fadeIn" />
