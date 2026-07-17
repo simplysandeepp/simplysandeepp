@@ -1,5 +1,5 @@
 # 💡 Dev Quote (auto-rotated hourly)
 
-> Move fast and don't break the build. — Sandeep
+> Code is like humor. When you have to explain it, it's bad. — Cory House
 
-_Last updated: 2026-07-17 09:19:29 UTC (2026-07-17 14:49:29 IST)_
+_Last updated: 2026-07-17 11:22:55 UTC (2026-07-17 16:52:55 IST)_
