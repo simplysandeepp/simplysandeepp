@@ -1,5 +1,5 @@
 # 💡 Dev Quote (auto-rotated hourly)
 
-> First, solve the problem. Then, write the code. — John Johnson
+> Simplicity is the soul of efficiency. — Austin Freeman
 
-_Last updated: 2026-07-18 11:05:08 UTC (2026-07-18 16:35:08 IST)_
+_Last updated: 2026-07-18 13:18:58 UTC (2026-07-18 18:48:58 IST)_
