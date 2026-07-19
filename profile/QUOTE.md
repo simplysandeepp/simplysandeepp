@@ -1,5 +1,5 @@
 # 💡 Dev Quote (auto-rotated hourly)
 
-> Talk is cheap. Show me the code. — Linus Torvalds
+> Any fool can write code that a computer can understand. Good programmers write code that humans can understand. — Martin Fowler
 
-_Last updated: 2026-07-18 23:55:29 UTC (2026-07-19 05:25:29 IST)_
+_Last updated: 2026-07-19 02:52:03 UTC (2026-07-19 08:22:03 IST)_
