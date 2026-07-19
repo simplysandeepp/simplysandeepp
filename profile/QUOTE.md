@@ -1,5 +1,5 @@
 # 💡 Dev Quote (auto-rotated hourly)
 
-> Cron doesn't sleep, and neither do good backends.
+> Programs must be written for people to read. — Harold Abelson
 
-_Last updated: 2026-07-19 14:57:20 UTC (2026-07-19 20:27:20 IST)_
+_Last updated: 2026-07-19 15:59:00 UTC (2026-07-19 21:29:00 IST)_
