@@ -1,5 +1,5 @@
 # 💡 Dev Quote (auto-rotated hourly)
 
-> Programs must be written for people to read. — Harold Abelson
+> Talk is cheap. Show me the code. — Linus Torvalds
 
-_Last updated: 2026-07-19 22:54:16 UTC (2026-07-20 04:24:16 IST)_
+_Last updated: 2026-07-19 23:59:22 UTC (2026-07-20 05:29:22 IST)_
