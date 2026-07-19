@@ -1,5 +1,5 @@
 # 💡 Dev Quote (auto-rotated hourly)
 
-> Simplicity is the soul of efficiency. — Austin Freeman
+> Premature optimization is the root of all evil. — Donald Knuth
 
-_Last updated: 2026-07-19 20:52:28 UTC (2026-07-20 02:22:28 IST)_
+_Last updated: 2026-07-19 21:54:29 UTC (2026-07-20 03:24:29 IST)_
