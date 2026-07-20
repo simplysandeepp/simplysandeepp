@@ -1,5 +1,5 @@
 # 💡 Dev Quote (auto-rotated hourly)
 
-> Talk is cheap. Show me the code. — Linus Torvalds
+> The best error message is the one that never shows up. — Thomas Fuchs
 
-_Last updated: 2026-07-19 23:59:22 UTC (2026-07-20 05:29:22 IST)_
+_Last updated: 2026-07-20 03:20:39 UTC (2026-07-20 08:50:39 IST)_
