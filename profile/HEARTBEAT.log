@@ -58,3 +58,4 @@
 2026-07-21 13:54:27 UTC | Move fast and don't break the build. — Sandeep
 2026-07-21 15:45:12 UTC | Cron doesn't sleep, and neither do good backends.
 2026-07-21 17:22:12 UTC | First, solve the problem. Then, write the code. — John Johnson
+2026-07-21 19:25:44 UTC | Any fool can write code that a computer can understand. Good programmers write code that humans can understand. — Martin Fowler
