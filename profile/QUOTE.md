@@ -1,5 +1,5 @@
 # 💡 Dev Quote (auto-rotated hourly)
 
-> The best error message is the one that never shows up. — Thomas Fuchs
+> Make it work, make it right, make it fast. — Kent Beck
 
-_Last updated: 2026-07-22 13:59:24 UTC (2026-07-22 19:29:24 IST)_
+_Last updated: 2026-07-22 15:43:52 UTC (2026-07-22 21:13:52 IST)_
