@@ -1,5 +1,5 @@
 # 💡 Dev Quote (auto-rotated hourly)
 
-> Ship small. Ship often. Ship green.
+> Any fool can write code that a computer can understand. Good programmers write code that humans can understand. — Martin Fowler
 
-_Last updated: 2026-07-22 21:10:05 UTC (2026-07-23 02:40:05 IST)_
+_Last updated: 2026-07-22 23:05:28 UTC (2026-07-23 04:35:28 IST)_
