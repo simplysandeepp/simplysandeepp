@@ -1,5 +1,5 @@
 # 💡 Dev Quote (auto-rotated hourly)
 
-> The best error message is the one that never shows up. — Thomas Fuchs
+> Ship small. Ship often. Ship green.
 
-_Last updated: 2026-07-23 21:05:57 UTC (2026-07-24 02:35:57 IST)_
+_Last updated: 2026-07-23 22:57:59 UTC (2026-07-24 04:27:59 IST)_
