@@ -1,5 +1,5 @@
 # 💡 Dev Quote (auto-rotated hourly)
 
-> Move fast and don't break the build. — Sandeep
+> Simplicity is the soul of efficiency. — Austin Freeman
 
-_Last updated: 2026-07-23 15:59:21 UTC (2026-07-23 21:29:21 IST)_
+_Last updated: 2026-07-23 17:23:56 UTC (2026-07-23 22:53:56 IST)_
