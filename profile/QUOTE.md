@@ -1,5 +1,5 @@
 # 💡 Dev Quote (auto-rotated hourly)
 
-> Any fool can write code that a computer can understand. Good programmers write code that humans can understand. — Martin Fowler
+> Move fast and don't break the build. — Sandeep
 
-_Last updated: 2026-07-22 23:05:28 UTC (2026-07-23 04:35:28 IST)_
+_Last updated: 2026-07-23 02:52:40 UTC (2026-07-23 08:22:40 IST)_
