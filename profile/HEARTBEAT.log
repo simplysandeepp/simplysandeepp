@@ -87,3 +87,4 @@
 2026-07-24 06:27:13 UTC | The graph stays green when discipline stays daily.
 2026-07-24 09:22:28 UTC | Cron doesn't sleep, and neither do good backends.
 2026-07-24 11:42:57 UTC | Latency is a feature — until it isn't.
+2026-07-24 13:47:53 UTC | Any fool can write code that a computer can understand. Good programmers write code that humans can understand. — Martin Fowler
