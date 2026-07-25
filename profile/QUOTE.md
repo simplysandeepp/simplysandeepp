@@ -1,5 +1,5 @@
 # 💡 Dev Quote (auto-rotated hourly)
 
-> Latency is a feature — until it isn't.
+> Programs must be written for people to read. — Harold Abelson
 
-_Last updated: 2026-07-25 19:09:29 UTC (2026-07-26 00:39:29 IST)_
+_Last updated: 2026-07-25 20:54:22 UTC (2026-07-26 02:24:22 IST)_
