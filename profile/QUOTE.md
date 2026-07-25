@@ -1,5 +1,5 @@
 # 💡 Dev Quote (auto-rotated hourly)
 
-> Move fast and don't break the build. — Sandeep
+> The best error message is the one that never shows up. — Thomas Fuchs
 
-_Last updated: 2026-07-25 09:49:20 UTC (2026-07-25 15:19:20 IST)_
+_Last updated: 2026-07-25 11:11:58 UTC (2026-07-25 16:41:58 IST)_
