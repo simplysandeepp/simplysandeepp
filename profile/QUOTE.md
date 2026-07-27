@@ -1,5 +1,5 @@
 # 💡 Dev Quote (auto-rotated hourly)
 
-> Cron doesn't sleep, and neither do good backends.
+> Any fool can write code that a computer can understand. Good programmers write code that humans can understand. — Martin Fowler
 
-_Last updated: 2026-07-27 18:25:06 UTC (2026-07-27 23:55:06 IST)_
+_Last updated: 2026-07-27 20:23:38 UTC (2026-07-28 01:53:38 IST)_
