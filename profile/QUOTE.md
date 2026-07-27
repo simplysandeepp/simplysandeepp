@@ -1,5 +1,5 @@
 # 💡 Dev Quote (auto-rotated hourly)
 
-> First, solve the problem. Then, write the code. — John Johnson
+> The best error message is the one that never shows up. — Thomas Fuchs
 
-_Last updated: 2026-07-27 14:38:15 UTC (2026-07-27 20:08:15 IST)_
+_Last updated: 2026-07-27 16:58:54 UTC (2026-07-27 22:28:54 IST)_
