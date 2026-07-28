@@ -130,3 +130,4 @@
 2026-07-28 00:03:58 UTC | Move fast and don't break the build. — Sandeep
 2026-07-28 03:26:21 UTC | Cron doesn't sleep, and neither do good backends.
 2026-07-28 06:27:56 UTC | The best error message is the one that never shows up. — Thomas Fuchs
+2026-07-28 09:37:01 UTC | Programs must be written for people to read. — Harold Abelson
