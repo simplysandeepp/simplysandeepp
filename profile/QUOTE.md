@@ -1,5 +1,5 @@
 # 💡 Dev Quote (auto-rotated hourly)
 
-> Latency is a feature — until it isn't.
+> First, solve the problem. Then, write the code. — John Johnson
 
-_Last updated: 2026-07-28 18:15:21 UTC (2026-07-28 23:45:21 IST)_
+_Last updated: 2026-07-28 20:16:14 UTC (2026-07-29 01:46:14 IST)_
