@@ -139,3 +139,4 @@
 2026-07-28 22:05:13 UTC | Move fast and don't break the build. — Sandeep
 2026-07-28 23:58:43 UTC | Move fast and don't break the build. — Sandeep
 2026-07-29 02:45:47 UTC | Cron doesn't sleep, and neither do good backends.
+2026-07-29 05:54:04 UTC | Make it work, make it right, make it fast. — Kent Beck
