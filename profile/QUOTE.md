@@ -1,5 +1,5 @@
 # 💡 Dev Quote (auto-rotated hourly)
 
-> First, solve the problem. Then, write the code. — John Johnson
+> Move fast and don't break the build. — Sandeep
 
-_Last updated: 2026-07-30 14:06:13 UTC (2026-07-30 19:36:13 IST)_
+_Last updated: 2026-07-30 16:27:47 UTC (2026-07-30 21:57:47 IST)_
