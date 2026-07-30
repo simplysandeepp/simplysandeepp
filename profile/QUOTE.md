@@ -1,5 +1,5 @@
 # 💡 Dev Quote (auto-rotated hourly)
 
-> The graph stays green when discipline stays daily.
+> First, solve the problem. Then, write the code. — John Johnson
 
-_Last updated: 2026-07-30 11:52:42 UTC (2026-07-30 17:22:42 IST)_
+_Last updated: 2026-07-30 14:06:13 UTC (2026-07-30 19:36:13 IST)_
