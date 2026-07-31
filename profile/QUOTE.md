@@ -1,5 +1,5 @@
 # 💡 Dev Quote (auto-rotated hourly)
 
-> Programs must be written for people to read. — Harold Abelson
+> The graph stays green when discipline stays daily.
 
-_Last updated: 2026-07-31 18:21:33 UTC (2026-07-31 23:51:33 IST)_
+_Last updated: 2026-07-31 20:21:03 UTC (2026-08-01 01:51:03 IST)_
