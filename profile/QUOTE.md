@@ -1,5 +1,5 @@
 # 💡 Dev Quote (auto-rotated hourly)
 
-> The graph stays green when discipline stays daily.
+> Any fool can write code that a computer can understand. Good programmers write code that humans can understand. — Martin Fowler
 
-_Last updated: 2026-08-01 19:10:14 UTC (2026-08-02 00:40:14 IST)_
+_Last updated: 2026-08-01 20:54:19 UTC (2026-08-02 02:24:19 IST)_
