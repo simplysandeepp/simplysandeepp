@@ -1,5 +1,5 @@
 # 💡 Dev Quote (auto-rotated hourly)
 
-> The best error message is the one that never shows up. — Thomas Fuchs
+> The graph stays green when discipline stays daily.
 
-_Last updated: 2026-08-01 22:56:38 UTC (2026-08-02 04:26:38 IST)_
+_Last updated: 2026-08-01 23:58:09 UTC (2026-08-02 05:28:09 IST)_
