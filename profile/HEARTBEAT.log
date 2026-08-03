@@ -200,3 +200,4 @@
 2026-08-03 06:25:43 UTC | Cron doesn't sleep, and neither do good backends.
 2026-08-03 10:43:36 UTC | Make it work, make it right, make it fast. — Kent Beck
 2026-08-03 13:42:12 UTC | The graph stays green when discipline stays daily.
+2026-08-03 16:27:24 UTC | Latency is a feature — until it isn't.
