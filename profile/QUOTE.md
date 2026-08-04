@@ -1,5 +1,5 @@
 # 💡 Dev Quote (auto-rotated hourly)
 
-> Cron doesn't sleep, and neither do good backends.
+> Move fast and don't break the build. — Sandeep
 
-_Last updated: 2026-08-04 07:41:09 UTC (2026-08-04 13:11:09 IST)_
+_Last updated: 2026-08-04 10:40:45 UTC (2026-08-04 16:10:45 IST)_
