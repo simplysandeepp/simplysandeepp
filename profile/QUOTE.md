@@ -1,5 +1,5 @@
 # 💡 Dev Quote (auto-rotated hourly)
 
-> The graph stays green when discipline stays daily.
+> Latency is a feature — until it isn't.
 
-_Last updated: 2026-08-04 19:38:57 UTC (2026-08-05 01:08:57 IST)_
+_Last updated: 2026-08-04 21:13:48 UTC (2026-08-05 02:43:48 IST)_
