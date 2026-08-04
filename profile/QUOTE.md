@@ -1,5 +1,5 @@
 # 💡 Dev Quote (auto-rotated hourly)
 
-> Move fast and don't break the build. — Sandeep
+> Make it work, make it right, make it fast. — Kent Beck
 
-_Last updated: 2026-08-04 13:03:44 UTC (2026-08-04 18:33:44 IST)_
+_Last updated: 2026-08-04 15:31:05 UTC (2026-08-04 21:01:05 IST)_
