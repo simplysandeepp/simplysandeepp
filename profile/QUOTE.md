@@ -1,5 +1,5 @@
 # 💡 Dev Quote (auto-rotated hourly)
 
-> Latency is a feature — until it isn't.
+> Move fast and don't break the build. — Sandeep
 
-_Last updated: 2026-08-07 13:06:33 UTC (2026-08-07 18:36:33 IST)_
+_Last updated: 2026-08-07 14:53:57 UTC (2026-08-07 20:23:57 IST)_
