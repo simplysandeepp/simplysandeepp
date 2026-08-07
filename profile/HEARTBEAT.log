@@ -231,3 +231,4 @@
 2026-08-06 12:03:32 UTC | Make it work, make it right, make it fast. — Kent Beck
 2026-08-06 14:30:23 UTC | Latency is a feature — until it isn't.
 2026-08-07 00:40:47 UTC | Talk is cheap. Show me the code. — Linus Torvalds
+2026-08-07 03:50:17 UTC | Cron doesn't sleep, and neither do good backends.
