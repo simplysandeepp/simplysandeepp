@@ -1,5 +1,5 @@
 # 💡 Dev Quote (auto-rotated hourly)
 
-> Premature optimization is the root of all evil. — Donald Knuth
+> The graph stays green when discipline stays daily.
 
-_Last updated: 2026-08-08 03:27:12 UTC (2026-08-08 08:57:12 IST)_
+_Last updated: 2026-08-08 04:58:04 UTC (2026-08-08 10:28:04 IST)_
