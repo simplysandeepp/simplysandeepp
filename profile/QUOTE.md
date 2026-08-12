@@ -1,5 +1,5 @@
 # 💡 Dev Quote (auto-rotated hourly)
 
-> Premature optimization is the root of all evil. — Donald Knuth
+> Make it work, make it right, make it fast. — Kent Beck
 
-_Last updated: 2026-08-12 06:15:39 UTC (2026-08-12 11:45:39 IST)_
+_Last updated: 2026-08-12 08:18:50 UTC (2026-08-12 13:48:50 IST)_
