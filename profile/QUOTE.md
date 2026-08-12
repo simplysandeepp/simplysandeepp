@@ -1,5 +1,5 @@
 # 💡 Dev Quote (auto-rotated hourly)
 
-> Talk is cheap. Show me the code. — Linus Torvalds
+> Cron doesn't sleep, and neither do good backends.
 
-_Last updated: 2026-08-12 10:07:20 UTC (2026-08-12 15:37:20 IST)_
+_Last updated: 2026-08-12 11:47:13 UTC (2026-08-12 17:17:13 IST)_
