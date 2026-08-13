@@ -1,5 +1,5 @@
 # 💡 Dev Quote (auto-rotated hourly)
 
-> Simplicity is the soul of efficiency. — Austin Freeman
+> The best error message is the one that never shows up. — Thomas Fuchs
 
-_Last updated: 2026-08-13 06:17:26 UTC (2026-08-13 11:47:26 IST)_
+_Last updated: 2026-08-13 08:21:50 UTC (2026-08-13 13:51:50 IST)_
