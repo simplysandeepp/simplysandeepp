@@ -1,5 +1,5 @@
 # 💡 Dev Quote (auto-rotated hourly)
 
-> The best error message is the one that never shows up. — Thomas Fuchs
+> Programs must be written for people to read. — Harold Abelson
 
-_Last updated: 2026-08-13 13:14:09 UTC (2026-08-13 18:44:09 IST)_
+_Last updated: 2026-08-13 14:59:03 UTC (2026-08-13 20:29:03 IST)_
