@@ -1,4 +1,3 @@
-2026-07-27 18:25:06 UTC | Cron doesn't sleep, and neither do good backends.
 2026-07-27 20:23:38 UTC | Any fool can write code that a computer can understand. Good programmers write code that humans can understand. — Martin Fowler
 2026-07-27 22:09:14 UTC | The best error message is the one that never shows up. — Thomas Fuchs
 2026-07-28 00:03:58 UTC | Move fast and don't break the build. — Sandeep
@@ -238,3 +237,4 @@
 2026-08-14 02:03:42 UTC | Move fast and don't break the build. — Sandeep
 2026-08-14 04:15:32 UTC | Any fool can write code that a computer can understand. Good programmers write code that humans can understand. — Martin Fowler
 2026-08-14 06:14:48 UTC | Latency is a feature — until it isn't.
+2026-08-14 08:16:41 UTC | The best error message is the one that never shows up. — Thomas Fuchs
