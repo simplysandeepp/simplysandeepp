@@ -1,5 +1,5 @@
 # 💡 Dev Quote (auto-rotated hourly)
 
-> Make it work, make it right, make it fast. — Kent Beck
+> Code is like humor. When you have to explain it, it's bad. — Cory House
 
-_Last updated: 2026-08-14 19:49:49 UTC (2026-08-15 01:19:49 IST)_
+_Last updated: 2026-08-14 20:32:34 UTC (2026-08-15 02:02:34 IST)_
