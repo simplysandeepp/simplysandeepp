@@ -1,5 +1,5 @@
 # 💡 Dev Quote (auto-rotated hourly)
 
-> Move fast and don't break the build. — Sandeep
+> Ship small. Ship often. Ship green.
 
-_Last updated: 2026-08-16 14:23:44 UTC (2026-08-16 19:53:44 IST)_
+_Last updated: 2026-08-16 15:22:46 UTC (2026-08-16 20:52:46 IST)_
