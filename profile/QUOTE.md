@@ -1,5 +1,5 @@
 # 💡 Dev Quote (auto-rotated hourly)
 
-> Any fool can write code that a computer can understand. Good programmers write code that humans can understand. — Martin Fowler
+> The best error message is the one that never shows up. — Thomas Fuchs
 
-_Last updated: 2026-08-16 01:22:56 UTC (2026-08-16 06:52:56 IST)_
+_Last updated: 2026-08-16 03:01:04 UTC (2026-08-16 08:31:04 IST)_
