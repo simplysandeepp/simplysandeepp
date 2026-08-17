@@ -1,5 +1,5 @@
 # 💡 Dev Quote (auto-rotated hourly)
 
-> The graph stays green when discipline stays daily.
+> Ship small. Ship often. Ship green.
 
-_Last updated: 2026-08-17 10:33:16 UTC (2026-08-17 16:03:16 IST)_
+_Last updated: 2026-08-17 11:27:06 UTC (2026-08-17 16:57:06 IST)_
