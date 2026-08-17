@@ -1,5 +1,5 @@
 # 💡 Dev Quote (auto-rotated hourly)
 
-> Any fool can write code that a computer can understand. Good programmers write code that humans can understand. — Martin Fowler
+> Code is like humor. When you have to explain it, it's bad. — Cory House
 
-_Last updated: 2026-08-17 08:45:07 UTC (2026-08-17 14:15:07 IST)_
+_Last updated: 2026-08-17 09:42:32 UTC (2026-08-17 15:12:32 IST)_
