@@ -1,5 +1,5 @@
 # 💡 Dev Quote (auto-rotated hourly)
 
-> Make it work, make it right, make it fast. — Kent Beck
+> Any fool can write code that a computer can understand. Good programmers write code that humans can understand. — Martin Fowler
 
-_Last updated: 2026-08-17 17:27:24 UTC (2026-08-17 22:57:24 IST)_
+_Last updated: 2026-08-17 18:41:01 UTC (2026-08-18 00:11:01 IST)_
