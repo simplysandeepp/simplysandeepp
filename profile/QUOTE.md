@@ -1,5 +1,5 @@
 # 💡 Dev Quote (auto-rotated hourly)
 
-> Make it work, make it right, make it fast. — Kent Beck
+> Cron doesn't sleep, and neither do good backends.
 
-_Last updated: 2026-08-17 19:28:59 UTC (2026-08-18 00:58:59 IST)_
+_Last updated: 2026-08-17 20:28:21 UTC (2026-08-18 01:58:21 IST)_
