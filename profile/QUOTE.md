@@ -1,5 +1,5 @@
 # 💡 Dev Quote (auto-rotated hourly)
 
-> Ship small. Ship often. Ship green.
+> Premature optimization is the root of all evil. — Donald Knuth
 
-_Last updated: 2026-08-17 11:27:06 UTC (2026-08-17 16:57:06 IST)_
+_Last updated: 2026-08-17 12:46:13 UTC (2026-08-17 18:16:13 IST)_
