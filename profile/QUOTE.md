@@ -1,5 +1,5 @@
 # 💡 Dev Quote (auto-rotated hourly)
 
-> Simplicity is the soul of efficiency. — Austin Freeman
+> Latency is a feature — until it isn't.
 
-_Last updated: 2026-08-19 21:26:08 UTC (2026-08-20 02:56:08 IST)_
+_Last updated: 2026-08-19 22:26:07 UTC (2026-08-20 03:56:07 IST)_
