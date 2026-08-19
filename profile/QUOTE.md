@@ -1,5 +1,5 @@
 # 💡 Dev Quote (auto-rotated hourly)
 
-> Talk is cheap. Show me the code. — Linus Torvalds
+> Simplicity is the soul of efficiency. — Austin Freeman
 
-_Last updated: 2026-08-19 20:29:21 UTC (2026-08-20 01:59:21 IST)_
+_Last updated: 2026-08-19 21:26:08 UTC (2026-08-20 02:56:08 IST)_
