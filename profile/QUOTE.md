@@ -1,5 +1,5 @@
 # 💡 Dev Quote (auto-rotated hourly)
 
-> First, solve the problem. Then, write the code. — John Johnson
+> Premature optimization is the root of all evil. — Donald Knuth
 
-_Last updated: 2026-08-19 11:26:00 UTC (2026-08-19 16:56:00 IST)_
+_Last updated: 2026-08-19 12:49:59 UTC (2026-08-19 18:19:59 IST)_
