@@ -1,5 +1,5 @@
 # 💡 Dev Quote (auto-rotated hourly)
 
-> First, solve the problem. Then, write the code. — John Johnson
+> Ship small. Ship often. Ship green.
 
-_Last updated: 2026-08-20 03:47:46 UTC (2026-08-20 09:17:46 IST)_
+_Last updated: 2026-08-20 04:38:20 UTC (2026-08-20 10:08:20 IST)_
