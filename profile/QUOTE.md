@@ -1,5 +1,5 @@
 # 💡 Dev Quote (auto-rotated hourly)
 
-> Talk is cheap. Show me the code. — Linus Torvalds
+> Make it work, make it right, make it fast. — Kent Beck
 
-_Last updated: 2026-08-21 22:26:15 UTC (2026-08-22 03:56:15 IST)_
+_Last updated: 2026-08-21 23:24:52 UTC (2026-08-22 04:54:52 IST)_
