@@ -1,5 +1,5 @@
 # 💡 Dev Quote (auto-rotated hourly)
 
-> Code is like humor. When you have to explain it, it's bad. — Cory House
+> First, solve the problem. Then, write the code. — John Johnson
 
-_Last updated: 2026-08-22 04:33:51 UTC (2026-08-22 10:03:51 IST)_
+_Last updated: 2026-08-22 05:28:43 UTC (2026-08-22 10:58:43 IST)_
