@@ -1,5 +1,5 @@
 # 💡 Dev Quote (auto-rotated hourly)
 
-> Programs must be written for people to read. — Harold Abelson
+> Code is like humor. When you have to explain it, it's bad. — Cory House
 
-_Last updated: 2026-08-23 18:31:10 UTC (2026-08-24 00:01:10 IST)_
+_Last updated: 2026-08-23 19:22:39 UTC (2026-08-24 00:52:39 IST)_
