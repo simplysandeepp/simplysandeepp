@@ -1,5 +1,5 @@
 # 💡 Dev Quote (auto-rotated hourly)
 
-> Code is like humor. When you have to explain it, it's bad. — Cory House
+> The graph stays green when discipline stays daily.
 
-_Last updated: 2026-08-23 08:31:31 UTC (2026-08-23 14:01:31 IST)_
+_Last updated: 2026-08-23 09:29:09 UTC (2026-08-23 14:59:09 IST)_
