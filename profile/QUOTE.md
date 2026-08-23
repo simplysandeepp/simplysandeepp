@@ -1,5 +1,5 @@
 # 💡 Dev Quote (auto-rotated hourly)
 
-> Move fast and don't break the build. — Sandeep
+> Programs must be written for people to read. — Harold Abelson
 
-_Last updated: 2026-08-23 17:20:59 UTC (2026-08-23 22:50:59 IST)_
+_Last updated: 2026-08-23 18:31:10 UTC (2026-08-24 00:01:10 IST)_
