@@ -1,5 +1,5 @@
 # 💡 Dev Quote (auto-rotated hourly)
 
-> Any fool can write code that a computer can understand. Good programmers write code that humans can understand. — Martin Fowler
+> Programs must be written for people to read. — Harold Abelson
 
-_Last updated: 2026-08-24 08:49:39 UTC (2026-08-24 14:19:39 IST)_
+_Last updated: 2026-08-24 09:49:31 UTC (2026-08-24 15:19:31 IST)_
