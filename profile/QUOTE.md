@@ -1,5 +1,5 @@
 # 💡 Dev Quote (auto-rotated hourly)
 
-> Talk is cheap. Show me the code. — Linus Torvalds
+> Latency is a feature — until it isn't.
 
-_Last updated: 2026-08-24 13:52:42 UTC (2026-08-24 19:22:42 IST)_
+_Last updated: 2026-08-24 14:43:10 UTC (2026-08-24 20:13:10 IST)_

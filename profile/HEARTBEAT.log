@@ -1,4 +1,3 @@
-2026-08-13 22:43:04 UTC | Any fool can write code that a computer can understand. Good programmers write code that humans can understand. — Martin Fowler
 2026-08-13 23:42:02 UTC | Any fool can write code that a computer can understand. Good programmers write code that humans can understand. — Martin Fowler
 2026-08-14 02:03:42 UTC | Move fast and don't break the build. — Sandeep
 2026-08-14 04:15:32 UTC | Any fool can write code that a computer can understand. Good programmers write code that humans can understand. — Martin Fowler
@@ -238,3 +237,4 @@
 2026-08-24 11:29:46 UTC | Latency is a feature — until it isn't.
 2026-08-24 12:52:27 UTC | Cron doesn't sleep, and neither do good backends.
 2026-08-24 13:52:42 UTC | Talk is cheap. Show me the code. — Linus Torvalds
+2026-08-24 14:43:10 UTC | Latency is a feature — until it isn't.
