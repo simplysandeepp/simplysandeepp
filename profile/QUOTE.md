@@ -1,5 +1,5 @@
 # 💡 Dev Quote (auto-rotated hourly)
 
-> The graph stays green when discipline stays daily.
+> Move fast and don't break the build. — Sandeep
 
-_Last updated: 2026-08-25 04:40:00 UTC (2026-08-25 10:10:00 IST)_
+_Last updated: 2026-08-25 05:32:24 UTC (2026-08-25 11:02:24 IST)_
