@@ -1,5 +1,5 @@
 # 💡 Dev Quote (auto-rotated hourly)
 
-> Simplicity is the soul of efficiency. — Austin Freeman
+> The graph stays green when discipline stays daily.
 
-_Last updated: 2026-08-25 03:50:04 UTC (2026-08-25 09:20:04 IST)_
+_Last updated: 2026-08-25 04:40:00 UTC (2026-08-25 10:10:00 IST)_
