@@ -1,5 +1,5 @@
 # 💡 Dev Quote (auto-rotated hourly)
 
-> The best error message is the one that never shows up. — Thomas Fuchs
+> Latency is a feature — until it isn't.
 
-_Last updated: 2026-08-25 11:28:41 UTC (2026-08-25 16:58:41 IST)_
+_Last updated: 2026-08-25 12:49:47 UTC (2026-08-25 18:19:47 IST)_
