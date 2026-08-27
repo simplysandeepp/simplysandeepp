@@ -1,5 +1,5 @@
 # 💡 Dev Quote (auto-rotated hourly)
 
-> Cron doesn't sleep, and neither do good backends.
+> Ship small. Ship often. Ship green.
 
-_Last updated: 2026-08-26 21:46:24 UTC (2026-08-27 03:16:24 IST)_
+_Last updated: 2026-08-27 02:59:06 UTC (2026-08-27 08:29:06 IST)_
