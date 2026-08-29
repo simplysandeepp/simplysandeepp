@@ -1,5 +1,5 @@
 # 💡 Dev Quote (auto-rotated hourly)
 
-> Cron doesn't sleep, and neither do good backends.
+> Code is like humor. When you have to explain it, it's bad. — Cory House
 
-_Last updated: 2026-08-28 21:19:36 UTC (2026-08-29 02:49:36 IST)_
+_Last updated: 2026-08-29 03:33:02 UTC (2026-08-29 09:03:02 IST)_
