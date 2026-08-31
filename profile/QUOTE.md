@@ -1,5 +1,5 @@
 # 💡 Dev Quote (auto-rotated hourly)
 
-> Talk is cheap. Show me the code. — Linus Torvalds
+> Ship small. Ship often. Ship green.
 
-_Last updated: 2026-08-31 18:54:23 UTC (2026-09-01 00:24:23 IST)_
+_Last updated: 2026-08-31 23:08:13 UTC (2026-09-01 04:38:13 IST)_
