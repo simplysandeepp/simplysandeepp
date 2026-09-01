@@ -1,5 +1,5 @@
 # 💡 Dev Quote (auto-rotated hourly)
 
-> Ship small. Ship often. Ship green.
+> Simplicity is the soul of efficiency. — Austin Freeman
 
-_Last updated: 2026-09-01 18:13:08 UTC (2026-09-01 23:43:08 IST)_
+_Last updated: 2026-09-01 21:38:08 UTC (2026-09-02 03:08:08 IST)_
