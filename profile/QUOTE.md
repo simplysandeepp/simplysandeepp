@@ -1,5 +1,5 @@
 # 💡 Dev Quote (auto-rotated hourly)
 
-> Code is like humor. When you have to explain it, it's bad. — Cory House
+> Talk is cheap. Show me the code. — Linus Torvalds
 
-_Last updated: 2026-09-01 23:51:09 UTC (2026-09-02 05:21:09 IST)_
+_Last updated: 2026-09-02 03:25:26 UTC (2026-09-02 08:55:26 IST)_
