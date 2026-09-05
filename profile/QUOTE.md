@@ -1,5 +1,5 @@
 # 💡 Dev Quote (auto-rotated hourly)
 
-> Talk is cheap. Show me the code. — Linus Torvalds
+> The graph stays green when discipline stays daily.
 
-_Last updated: 2026-09-05 18:50:16 UTC (2026-09-06 00:20:16 IST)_
+_Last updated: 2026-09-05 20:58:12 UTC (2026-09-06 02:28:12 IST)_
