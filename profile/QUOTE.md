@@ -1,5 +1,5 @@
 # 💡 Dev Quote (auto-rotated hourly)
 
-> Premature optimization is the root of all evil. — Donald Knuth
+> The best error message is the one that never shows up. — Thomas Fuchs
 
-_Last updated: 2026-09-07 03:26:55 UTC (2026-09-07 08:56:55 IST)_
+_Last updated: 2026-09-07 09:02:32 UTC (2026-09-07 14:32:32 IST)_
