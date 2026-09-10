@@ -1,5 +1,5 @@
 # 💡 Dev Quote (auto-rotated hourly)
 
-> Make it work, make it right, make it fast. — Kent Beck
+> Simplicity is the soul of efficiency. — Austin Freeman
 
-_Last updated: 2026-09-10 00:54:01 UTC (2026-09-10 06:24:01 IST)_
+_Last updated: 2026-09-10 05:40:43 UTC (2026-09-10 11:10:43 IST)_
