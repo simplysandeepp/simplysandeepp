@@ -1,5 +1,5 @@
 # 💡 Dev Quote (auto-rotated hourly)
 
-> Move fast and don't break the build. — Sandeep
+> Premature optimization is the root of all evil. — Donald Knuth
 
-_Last updated: 2026-09-11 08:42:03 UTC (2026-09-11 14:12:03 IST)_
+_Last updated: 2026-09-11 13:20:30 UTC (2026-09-11 18:50:30 IST)_
