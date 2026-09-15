@@ -1,5 +1,5 @@
 # 💡 Dev Quote (auto-rotated hourly)
 
-> Cron doesn't sleep, and neither do good backends.
+> Latency is a feature — until it isn't.
 
-_Last updated: 2026-09-15 17:59:34 UTC (2026-09-15 23:29:34 IST)_
+_Last updated: 2026-09-15 20:57:31 UTC (2026-09-16 02:27:31 IST)_
