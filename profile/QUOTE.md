@@ -1,5 +1,5 @@
 # 💡 Dev Quote (auto-rotated hourly)
 
-> Any fool can write code that a computer can understand. Good programmers write code that humans can understand. — Martin Fowler
+> First, solve the problem. Then, write the code. — John Johnson
 
-_Last updated: 2026-09-15 01:14:10 UTC (2026-09-15 06:44:10 IST)_
+_Last updated: 2026-09-15 07:20:52 UTC (2026-09-15 12:50:52 IST)_
