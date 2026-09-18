@@ -1,5 +1,5 @@
 # 💡 Dev Quote (auto-rotated hourly)
 
-> Make it work, make it right, make it fast. — Kent Beck
+> Latency is a feature — until it isn't.
 
-_Last updated: 2026-09-18 19:27:27 UTC (2026-09-19 00:57:27 IST)_
+_Last updated: 2026-09-18 22:22:11 UTC (2026-09-19 03:52:11 IST)_
