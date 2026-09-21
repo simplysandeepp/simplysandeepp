@@ -1,5 +1,5 @@
 # 💡 Dev Quote (auto-rotated hourly)
 
-> Make it work, make it right, make it fast. — Kent Beck
+> The graph stays green when discipline stays daily.
 
-_Last updated: 2026-09-21 00:59:29 UTC (2026-09-21 06:29:29 IST)_
+_Last updated: 2026-09-21 05:57:51 UTC (2026-09-21 11:27:51 IST)_
