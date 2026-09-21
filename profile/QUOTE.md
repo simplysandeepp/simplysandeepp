@@ -1,5 +1,5 @@
 # 💡 Dev Quote (auto-rotated hourly)
 
-> First, solve the problem. Then, write the code. — John Johnson
+> Make it work, make it right, make it fast. — Kent Beck
 
-_Last updated: 2026-09-20 23:03:01 UTC (2026-09-21 04:33:01 IST)_
+_Last updated: 2026-09-21 00:59:29 UTC (2026-09-21 06:29:29 IST)_
