@@ -1,5 +1,5 @@
 # 💡 Dev Quote (auto-rotated hourly)
 
-> Ship small. Ship often. Ship green.
+> Latency is a feature — until it isn't.
 
-_Last updated: 2026-09-26 21:53:14 UTC (2026-09-27 03:23:14 IST)_
+_Last updated: 2026-09-27 00:19:28 UTC (2026-09-27 05:49:28 IST)_
