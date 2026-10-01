@@ -1,5 +1,5 @@
 # 💡 Dev Quote (auto-rotated hourly)
 
-> Premature optimization is the root of all evil. — Donald Knuth
+> Code is like humor. When you have to explain it, it's bad. — Cory House
 
-_Last updated: 2026-10-01 16:04:46 UTC (2026-10-01 21:34:46 IST)_
+_Last updated: 2026-10-01 20:58:28 UTC (2026-10-02 02:28:28 IST)_
