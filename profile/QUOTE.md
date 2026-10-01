@@ -1,5 +1,5 @@
 # 💡 Dev Quote (auto-rotated hourly)
 
-> First, solve the problem. Then, write the code. — John Johnson
+> Talk is cheap. Show me the code. — Linus Torvalds
 
-_Last updated: 2026-09-30 21:17:12 UTC (2026-10-01 02:47:12 IST)_
+_Last updated: 2026-10-01 01:07:32 UTC (2026-10-01 06:37:32 IST)_
