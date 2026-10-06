@@ -1,5 +1,5 @@
 # 💡 Dev Quote (auto-rotated hourly)
 
-> Programs must be written for people to read. — Harold Abelson
+> Simplicity is the soul of efficiency. — Austin Freeman
 
-_Last updated: 2026-10-06 12:56:14 UTC (2026-10-06 18:26:14 IST)_
+_Last updated: 2026-10-06 18:49:05 UTC (2026-10-07 00:19:05 IST)_
