@@ -1,5 +1,5 @@
 # 💡 Dev Quote (auto-rotated hourly)
 
-> Premature optimization is the root of all evil. — Donald Knuth
+> Programs must be written for people to read. — Harold Abelson
 
-_Last updated: 2026-10-07 02:09:07 UTC (2026-10-07 07:39:07 IST)_
+_Last updated: 2026-10-07 09:57:10 UTC (2026-10-07 15:27:10 IST)_
