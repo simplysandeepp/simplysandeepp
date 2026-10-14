@@ -1,5 +1,5 @@
 # 💡 Dev Quote (auto-rotated hourly)
 
-> Premature optimization is the root of all evil. — Donald Knuth
+> Latency is a feature — until it isn't.
 
-_Last updated: 2026-10-13 21:01:22 UTC (2026-10-14 02:31:22 IST)_
+_Last updated: 2026-10-14 00:12:13 UTC (2026-10-14 05:42:13 IST)_
