@@ -218,7 +218,7 @@
     <g class="stagger" style="animation-delay: 600ms">
       <circle cx="5" cy="6" r="5" fill="#DA5B0B" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Jupyter Notebook 30.32%
+        Jupyter Notebook 30.31%
       </text>
     </g>
   </g><g transform="translate(0, 50)">
