@@ -1,5 +1,5 @@
 # 💡 Dev Quote (auto-rotated hourly)
 
-> Code is like humor. When you have to explain it, it's bad. — Cory House
+> Latency is a feature — until it isn't.
 
-_Last updated: 2026-10-16 19:24:09 UTC (2026-10-17 00:54:09 IST)_
+_Last updated: 2026-10-16 22:38:11 UTC (2026-10-17 04:08:11 IST)_
