@@ -1,5 +1,5 @@
 # 💡 Dev Quote (auto-rotated hourly)
 
-> Latency is a feature — until it isn't.
+> Any fool can write code that a computer can understand. Good programmers write code that humans can understand. — Martin Fowler
 
-_Last updated: 2026-10-16 22:38:11 UTC (2026-10-17 04:08:11 IST)_
+_Last updated: 2026-10-17 01:08:23 UTC (2026-10-17 06:38:23 IST)_
