@@ -1,5 +1,5 @@
 # 💡 Dev Quote (auto-rotated hourly)
 
-> Make it work, make it right, make it fast. — Kent Beck
+> Programs must be written for people to read. — Harold Abelson
 
-_Last updated: 2026-10-22 01:18:50 UTC (2026-10-22 06:48:50 IST)_
+_Last updated: 2026-10-22 07:14:35 UTC (2026-10-22 12:44:35 IST)_
