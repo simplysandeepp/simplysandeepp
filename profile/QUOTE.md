@@ -1,5 +1,5 @@
 # 💡 Dev Quote (auto-rotated hourly)
 
-> Cron doesn't sleep, and neither do good backends.
+> Premature optimization is the root of all evil. — Donald Knuth
 
-_Last updated: 2026-10-24 10:28:24 UTC (2026-10-24 15:58:24 IST)_
+_Last updated: 2026-10-24 14:18:27 UTC (2026-10-24 19:48:27 IST)_
