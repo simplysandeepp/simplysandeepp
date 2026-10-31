@@ -1,5 +1,5 @@
 # 💡 Dev Quote (auto-rotated hourly)
 
-> Premature optimization is the root of all evil. — Donald Knuth
+> Any fool can write code that a computer can understand. Good programmers write code that humans can understand. — Martin Fowler
 
-_Last updated: 2026-10-30 20:29:06 UTC (2026-10-31 01:59:06 IST)_
+_Last updated: 2026-10-31 00:29:58 UTC (2026-10-31 05:59:58 IST)_
