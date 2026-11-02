@@ -1,5 +1,5 @@
 # 💡 Dev Quote (auto-rotated hourly)
 
-> Talk is cheap. Show me the code. — Linus Torvalds
+> Move fast and don't break the build. — Sandeep
 
-_Last updated: 2026-11-02 00:22:00 UTC (2026-11-02 05:52:00 IST)_
+_Last updated: 2026-11-02 07:23:20 UTC (2026-11-02 12:53:20 IST)_
