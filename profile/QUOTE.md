@@ -1,5 +1,5 @@
 # 💡 Dev Quote (auto-rotated hourly)
 
-> Premature optimization is the root of all evil. — Donald Knuth
+> Talk is cheap. Show me the code. — Linus Torvalds
 
-_Last updated: 2026-11-04 22:28:14 UTC (2026-11-05 03:58:14 IST)_
+_Last updated: 2026-11-05 03:16:00 UTC (2026-11-05 08:46:00 IST)_
