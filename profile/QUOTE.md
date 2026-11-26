@@ -1,5 +1,5 @@
 # 💡 Dev Quote (auto-rotated hourly)
 
-> Simplicity is the soul of efficiency. — Austin Freeman
+> Any fool can write code that a computer can understand. Good programmers write code that humans can understand. — Martin Fowler
 
-_Last updated: 2026-11-26 11:59:00 UTC (2026-11-26 17:29:00 IST)_
+_Last updated: 2026-11-26 21:03:06 UTC (2026-11-27 02:33:06 IST)_
