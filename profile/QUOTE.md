@@ -1,5 +1,5 @@
 # 💡 Dev Quote (auto-rotated hourly)
 
-> Programs must be written for people to read. — Harold Abelson
+> Ship small. Ship often. Ship green.
 
-_Last updated: 2026-11-25 19:47:50 UTC (2026-11-26 01:17:50 IST)_
+_Last updated: 2026-11-26 02:40:46 UTC (2026-11-26 08:10:46 IST)_
