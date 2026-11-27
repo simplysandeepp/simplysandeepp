@@ -1,5 +1,5 @@
 # 💡 Dev Quote (auto-rotated hourly)
 
-> The best error message is the one that never shows up. — Thomas Fuchs
+> Code is like humor. When you have to explain it, it's bad. — Cory House
 
-_Last updated: 2026-11-27 03:34:38 UTC (2026-11-27 09:04:38 IST)_
+_Last updated: 2026-11-27 13:32:42 UTC (2026-11-27 19:02:42 IST)_
